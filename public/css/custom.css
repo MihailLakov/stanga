@@ -1,0 +1,71 @@
+
+/* 
+    Created on : May 12, 2017, 3:21:50 PM
+    Author     : MLakov
+*/
+
+/** HEADER **/
+
+header img.logo{
+    display:inline-block;
+    margin-right:10px;
+}
+
+header nav{
+    font-size:18px;
+}
+
+header ul.nav{
+    margin:0 auto;
+    position:relative;
+    transition:all 0.3s ease; 
+}
+header {
+    background:#242f48;
+    margin-bottom:30px;
+    padding:10px 0;
+    color:white; 
+}
+.navbar{
+    margin:0px;
+    border:0px;
+}
+.navbar-default{
+    border-color:transparent;
+    background:transparent;
+    box-shadow: none;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+    background:transparent;
+    border-color:transparent;
+}
+.navbar-default .navbar-brand:focus,  .navbar-default .navbar-brand:hover {
+    text-decoration: none;   
+}
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-brand{
+    color:white;
+}
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-brand:hover{
+    color:#c9252b;
+}
+
+h1.admin{
+    color:#1f2430;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.table th{
+    background: #242f48;
+    color: white;   
+}
+/** FOOTER **/
+
+footer{
+    margin-top:30px;
+    background:#1f2430;
+    color:#e7ecf0;    
+    padding:30px 0;
+
+}
+
