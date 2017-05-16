@@ -15,3 +15,4 @@
 <p>/public/admin  - Administration Panel  - use admin@gmail.com pass:stanga</p>
 <p>/public/api/translate/single/{word} - GET single word from db; json response</p>
 <p>/public/api/translate/all/{limit}/{order} - GET all words from db; limit and order are optional</p>
+<p>Test.csv for file upload</p>
